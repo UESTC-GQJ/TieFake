@@ -41,7 +41,9 @@ Complete dataset cannot be distributed because of Twitter privacy policies and n
 After we clean the datasets, the statistics of the dataset is shown below:
 
 | News Articles  | #Fake News| #True News | #Total News |
+
 | Politifact     |  161      |   205      |   366       |
+
 | Gossipcop      |  4927     |   11693    |   21620     |
 
 If you use the code in your project, please cite the following paper:
