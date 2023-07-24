@@ -7,16 +7,27 @@ Other dependencies can be installed using the following commands:
 pip install -r requirements.txt
 download datasets
 clean datasets and save them into folder Data,such as:
+
 --Data
+
   --politifact_images
+  
     --xx.jpg
+    
     ......
+    
   --gossipcop_images
+  
     --xx.jpg
+    
     ......
+    
   --politifact_train.tsv
+  
   --politifact_test.tsv
+  
   --gossipcop_train.tsv
+  
   --gossipcop_test.tsv
 
 run bert_training.py to train bert in our datasets
